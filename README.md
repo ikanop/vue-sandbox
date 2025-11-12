@@ -2,7 +2,7 @@
 
 ### Project Structure
 
-vue-sandbox
+```vue-sandbox
 ├── index.html
 └── src
     ├── App.vue
@@ -23,4 +23,4 @@ vue-sandbox
         ├── languages.vue
         ├── main.vue
         ├── switch.vue
-        └── todo.vue
+        └── todo.vue```
