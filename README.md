@@ -2,7 +2,8 @@
 
 ### Project Structure
 
-```vue-sandbox
+```
+vue-sandbox
 ├── index.html
 └── src
     ├── App.vue
