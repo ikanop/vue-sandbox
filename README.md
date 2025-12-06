@@ -1,6 +1,6 @@
 # Sandbox Vue App
 
-A simple Vue.js web app showcasing a to-do list, a welcome page, and language usage stats.
+A simple **Vue.js** web app showcasing a to-do list, a welcome page, and language usage stats.
 
 ## Live Demo
 
